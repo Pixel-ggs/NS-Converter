@@ -6,5 +6,6 @@
 
 *Version List:*
 
-*• V1 - No UI outside of console, .py, Hex/Bin/Den Conv
-That's it so far ^^*
+*• V1 - No UI outside of console, .py, Hex/Bin/Den Conv*
+
+*That's it so far ^^*
